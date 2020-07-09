@@ -41,7 +41,3 @@ When thats done, install xbindkeys-config, the GUI for xbindkeys (note: the GUI 
 
 * **Petr Posvic** - [StandBY](https://github.com/StandBY76)
 
-
-```todo 
-x (A) 2018-04-19 2018-04-30 task +project @context =2+2
-```
